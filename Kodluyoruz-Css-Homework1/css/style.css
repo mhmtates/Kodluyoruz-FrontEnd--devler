@@ -1,0 +1,50 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+  color:rgba(255, 0, 0, 0.993);
+  font-size:1.5em;
+  text-align:center;
+}
+a{
+   
+  text-decoration: underline;
+  text-align:center;
+  color:purple;
+  font-size:1em;
+  font-weight:500;
+  margin-left:200px;
+  
+}
+
+h2{
+ 
+    text-align:center;
+    color:purple;
+}
+p{
+    
+    font-size:0.9em;
+    
+}
+p b{
+
+   color:purple;
+   text-decoration:underline; 
+}
+h3{
+    color:burlywood;
+    text-align: center;
+}
+li{
+
+    list-style-position: inside;
+    margin-left:25em;
+    margin-top:0.5em;
+}
+article{
+    text-align:center;
+}
