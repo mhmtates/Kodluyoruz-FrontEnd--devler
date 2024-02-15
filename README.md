@@ -1,1 +1,1 @@
-## Kodluyoruz Front-End Ödevleri
+## Kodluyoruz Patika.Dev Front-End Ödevleri
